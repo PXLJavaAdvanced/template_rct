@@ -20,6 +20,10 @@ public class GameEngine {
                 " '----------------'  '----------------'  '----------------'     '----------------'  '----------------'  '----------------' \n");
     }
 
+    public void init() {
+        // TODO: all initialization comes here
+    }
+
 
     /**
      * Handles the cli commands given by the player.
