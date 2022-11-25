@@ -1,4 +1,4 @@
-﻿id;name;type;excitement;excitement_rating;nausea;nausea_rating;cost;passengers;ridetime
+﻿id;name;genre;excitement;excitement_rating;nausea;nausea_rating;cost;passengers;ridetime
 1;Bobsleigh Coaster;roller coaster;5.49;High;4.86;Medium;2700;16;25
 2;Dinghy Slide;water ride;4.83;Medium;3.5;Medium;1200;2;20
 3;Wild Mouse;roller coaster;7.64;High;4.87;Medium;1640;4;25
